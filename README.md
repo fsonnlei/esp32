@@ -26,7 +26,7 @@ This project uses an ESP32 SoC, especifically a [ESP-WROOM-32](https://www.espre
 
 - NTPClient and WiFi libraries
 
-- HTTPClient for API calls
+- HTTPClient and ArduinoJson for API calls
 
 - LiquidCrystal_I2C for LCD interface
 
